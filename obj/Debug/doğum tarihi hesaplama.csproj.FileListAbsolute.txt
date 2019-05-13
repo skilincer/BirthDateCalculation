@@ -1,0 +1,19 @@
+c:\users\emrullah yakışan\documents\visual studio 2013\Projects\doğum tarihi hesaplama\doğum tarihi hesaplama\bin\Debug\doğum tarihi hesaplama.exe.config
+c:\users\emrullah yakışan\documents\visual studio 2013\Projects\doğum tarihi hesaplama\doğum tarihi hesaplama\bin\Debug\doğum tarihi hesaplama.exe
+c:\users\emrullah yakışan\documents\visual studio 2013\Projects\doğum tarihi hesaplama\doğum tarihi hesaplama\bin\Debug\doğum tarihi hesaplama.pdb
+c:\users\emrullah yakışan\documents\visual studio 2013\Projects\doğum tarihi hesaplama\doğum tarihi hesaplama\obj\Debug\doğum tarihi hesaplama.csprojResolveAssemblyReference.cache
+c:\users\emrullah yakışan\documents\visual studio 2013\Projects\doğum tarihi hesaplama\doğum tarihi hesaplama\obj\Debug\doğum_tarihi_hesaplama.Form1.resources
+c:\users\emrullah yakışan\documents\visual studio 2013\Projects\doğum tarihi hesaplama\doğum tarihi hesaplama\obj\Debug\doğum_tarihi_hesaplama.Properties.Resources.resources
+c:\users\emrullah yakışan\documents\visual studio 2013\Projects\doğum tarihi hesaplama\doğum tarihi hesaplama\obj\Debug\doğum tarihi hesaplama.csproj.GenerateResource.Cache
+c:\users\emrullah yakışan\documents\visual studio 2013\Projects\doğum tarihi hesaplama\doğum tarihi hesaplama\obj\Debug\doğum tarihi hesaplama.exe
+c:\users\emrullah yakışan\documents\visual studio 2013\Projects\doğum tarihi hesaplama\doğum tarihi hesaplama\obj\Debug\doğum tarihi hesaplama.pdb
+D:\C#\örnekler\doğum tarihi hesaplama\doğum tarihi hesaplama\bin\Debug\doğum tarihi hesaplama.exe.config
+D:\C#\örnekler\doğum tarihi hesaplama\doğum tarihi hesaplama\bin\Debug\doğum tarihi hesaplama.exe
+D:\C#\örnekler\doğum tarihi hesaplama\doğum tarihi hesaplama\bin\Debug\doğum tarihi hesaplama.pdb
+D:\C#\örnekler\doğum tarihi hesaplama\doğum tarihi hesaplama\obj\Debug\doğum tarihi hesaplama.csprojAssemblyReference.cache
+D:\C#\örnekler\doğum tarihi hesaplama\doğum tarihi hesaplama\obj\Debug\doğum_tarihi_hesaplama.Form1.resources
+D:\C#\örnekler\doğum tarihi hesaplama\doğum tarihi hesaplama\obj\Debug\doğum_tarihi_hesaplama.Properties.Resources.resources
+D:\C#\örnekler\doğum tarihi hesaplama\doğum tarihi hesaplama\obj\Debug\doğum tarihi hesaplama.csproj.GenerateResource.cache
+D:\C#\örnekler\doğum tarihi hesaplama\doğum tarihi hesaplama\obj\Debug\doğum tarihi hesaplama.csproj.CoreCompileInputs.cache
+D:\C#\örnekler\doğum tarihi hesaplama\doğum tarihi hesaplama\obj\Debug\doğum tarihi hesaplama.exe
+D:\C#\örnekler\doğum tarihi hesaplama\doğum tarihi hesaplama\obj\Debug\doğum tarihi hesaplama.pdb
